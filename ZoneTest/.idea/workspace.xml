@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="752347b9-0615-42b3-bec1-caca606560cc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/Login.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Features/Login.feature" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +41,11 @@
       </file>
       <file leaf-file-name="Login.feature" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/Features/Login.feature">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="TvIconPageStepDef.java" pinned="false" current-in-tab="false">
@@ -140,6 +143,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/stepdefinations/EastEndersMainPageStepDef.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cucumberrunner/Runner.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cucumberrunner/AbstractMain.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/Features/Login.feature" />
       </list>
     </option>
   </component>
@@ -305,6 +309,14 @@
       <option name="presentableId" value="Default" />
       <updated>1535496712857</updated>
     </task>
+    <task id="LOCAL-00001" summary="new feature file created">
+      <created>1540304756203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540304756203</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -372,6 +384,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new feature file created" />
+    <option name="LAST_COMMIT_MESSAGE" value="new feature file created" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -684,7 +700,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/Features/Login.feature">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
